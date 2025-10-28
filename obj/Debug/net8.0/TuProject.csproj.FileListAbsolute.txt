@@ -46,3 +46,4 @@
 /Users/andrescortesdev/Documents/Riwi/TuProject/obj/Debug/net8.0/TuProject.pdb
 /Users/andrescortesdev/Documents/Riwi/TuProject/obj/Debug/net8.0/TuProject.genruntimeconfig.cache
 /Users/andrescortesdev/Documents/Riwi/TuProject/obj/Debug/net8.0/ref/TuProject.dll
+/Users/andrescortesdev/Documents/Riwi/TuProject/obj/Debug/net8.0/TuProject.sourcelink.json
